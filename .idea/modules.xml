@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shiro-javase/shiro-javase.iml" filepath="$PROJECT_DIR$/shiro-javase/shiro-javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro-javaweb/shiro-javaweb.iml" filepath="$PROJECT_DIR$/shiro-javaweb/shiro-javaweb.iml" />
+    </modules>
+  </component>
+</project>
